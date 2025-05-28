@@ -12,5 +12,6 @@ export const colors = {
     notification: '#ff9800',
     black: '#100D25',
     purple: '#5B41FF',
-    gray: '#9095A6',    
+    gray: '#9095A6',
+    placeholderTextColor: '#B0B0B0',    
     };
